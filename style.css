@@ -207,3 +207,34 @@ max-width:100%;
     display: block;
     margin: auto;
 }
+.services{
+    padding:80px 10%;
+    background:#111;
+    color:#fff;
+    text-align:center;
+}
+
+.services h2{
+    font-size:40px;
+    color:#FFD43B;
+    margin-bottom:40px;
+}
+
+.service-box{
+    background:#1b1b1b;
+    padding:25px;
+    margin:20px auto;
+    max-width:500px;
+    border-radius:15px;
+    box-shadow:0 0 15px rgba(255,212,59,.2);
+    transition:.3s;
+}
+
+.service-box:hover{
+    transform:translateY(-8px);
+}
+
+.service-box h3{
+    color:#FFD43B;
+    margin-bottom:10px;
+}
