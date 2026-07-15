@@ -200,3 +200,10 @@ max-width:100%;
 }
 
 }
+.hero-logo {
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
