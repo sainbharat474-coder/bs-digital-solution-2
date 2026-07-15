@@ -238,3 +238,37 @@ max-width:100%;
     color:#FFD43B;
     margin-bottom:10px;
 }
+#about{
+    padding:80px 10%;
+    background:#111;
+    color:white;
+}
+
+#about h2{
+    font-size:40px;
+    color:#ffd43b;
+    margin-bottom:20px;
+}
+
+#about p{
+    font-size:20px;
+    line-height:1.8;
+    margin-bottom:30px;
+}
+
+.about-box{
+    background:#1b1b1b;
+    padding:30px;
+    border-radius:15px;
+    border:1px solid #333;
+}
+
+.about-box ul{
+    list-style:none;
+    padding:0;
+}
+
+.about-box li{
+    margin:15px 0;
+    font-size:18px;
+}
