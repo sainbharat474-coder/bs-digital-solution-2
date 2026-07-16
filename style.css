@@ -382,3 +382,44 @@ max-width:100%;
     color:#FFD700;
     margin-bottom:15px;
 }
+#testimonials{
+    padding:80px 10%;
+    background:#111;
+    color:#fff;
+    text-align:center;
+}
+
+#testimonials h2{
+    color:#FFD700;
+    font-size:40px;
+    margin-bottom:40px;
+}
+
+.testimonial-container{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:25px;
+}
+
+.testimonial-card{
+    background:#1b1b1b;
+    padding:30px;
+    border-radius:15px;
+    border:1px solid #333;
+    transition:.3s;
+}
+
+.testimonial-card:hover{
+    transform:translateY(-8px);
+    border-color:#FFD700;
+}
+
+.testimonial-card h3{
+    color:#FFD700;
+    font-size:24px;
+}
+
+.testimonial-card h4{
+    margin-top:15px;
+    color:#FFD700;
+}
