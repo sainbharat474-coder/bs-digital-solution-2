@@ -514,3 +514,15 @@ max-width:100%;
 .whatsapp:hover{
     transform:scale(1.1);
 }
+#map{
+    padding:80px 10%;
+    background:#0d0d0d;
+    color:#fff;
+    text-align:center;
+}
+
+#map h2{
+    color:#FFD700;
+    margin-bottom:30px;
+    font-size:40px;
+}
