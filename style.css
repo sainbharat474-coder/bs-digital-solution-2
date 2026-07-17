@@ -545,3 +545,24 @@ max-width:100%;
 .review-card h3{
     color:#FFD700;
 }
+.whatsapp-float{
+    position: fixed;
+    width:60px;
+    height:60px;
+    bottom:20px;
+    right:20px;
+    background:#25D366;
+    color:#fff;
+    border-radius:50%;
+    text-align:center;
+    font-size:30px;
+    line-height:60px;
+    text-decoration:none;
+    box-shadow:0 4px 10px rgba(0,0,0,.3);
+    z-index:1000;
+    transition:.3s;
+}
+
+.whatsapp-float:hover{
+    transform:scale(1.1);
+}
