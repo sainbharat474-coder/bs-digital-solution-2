@@ -526,3 +526,22 @@ max-width:100%;
     margin-bottom:30px;
     font-size:40px;
 }
+#reviews{
+    padding:80px 10%;
+    background:#111;
+    color:#fff;
+    text-align:center;
+}
+
+.review-card{
+    background:#1b1b1b;
+    padding:25px;
+    margin:20px auto;
+    max-width:600px;
+    border-radius:15px;
+    border:1px solid #333;
+}
+
+.review-card h3{
+    color:#FFD700;
+}
