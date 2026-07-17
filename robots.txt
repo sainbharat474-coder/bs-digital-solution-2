@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sainbharat474-coder.github.io/bs-digital-solution-2/sitemap.xml
